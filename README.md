@@ -2,7 +2,8 @@
 Binance Public API Statistical Mode Response From Hundreds of Free Proxies
 
 
-```In the realm of tyrants and despots grim,
+```
+In the realm of tyrants and despots grim,
 Geo-blocking is their feeble whim.
 But we, the savvy and the sly,
 Know how to outsmart and defy.
@@ -20,4 +21,5 @@ For freedom and truth are our ultimate choice.
 Geo-blocking is their tool of fear,
 But we'll outsmart them without shedding a tear.
 So let them try to control and oppress,
-We'll hack and defy, we'll never regress.```
+We'll hack and defy, we'll never regress.
+```
