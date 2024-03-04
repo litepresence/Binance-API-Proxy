@@ -9,7 +9,7 @@ But we, the savvy and the sly,
 Know how to outsmart and defy.
 
 With proxies and VPNs as our guide,
-We'll navigate their censorship with pride.
+We'll navigate their censorship with indignant pride.
 Their attempts to control will be in vain,
 As we hack circles around their digital domain.
 
